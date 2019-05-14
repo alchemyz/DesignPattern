@@ -1,0 +1,10 @@
+package com.winterfell.creating.factory.simplefactory;
+
+public class Byd implements Car {
+
+    @Override
+    public void run() {
+        System.out.println("比亚迪在路上...");
+    }
+
+}
