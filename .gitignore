@@ -1,4 +1,6 @@
-/target
 /.idea
 *.class
 *.iml
+
+/build
+/out
